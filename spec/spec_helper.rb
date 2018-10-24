@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "digifi_api"
+require "esignatures_api"
 require "webmock/rspec"
 require "pry"
 
